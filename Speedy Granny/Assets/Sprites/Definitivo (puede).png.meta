@@ -1,0 +1,221 @@
+fileFormatVersion: 2
+guid: bd4fa21d6321f7d4380e46fca9e048cf
+timeCreated: 1447610119
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: "Mo\xF1o pelo"
+    21300002: Cabeza
+    21300004: Brazo izq
+    21300006: Mano izq
+    21300008: PieInferiorIzqB
+    21300010: Cuerpo
+    21300012: Item1
+    21300014: Brazo drcho
+    21300016: Mano drcha
+    21300018: PieInferiorDrchoB
+    21300020: Bloque1
+    21300022: Bloque2
+    21300024: Flecha
+    21300026: PieInferiorIzqA
+    21300028: PieInferiorDrchoA
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 400
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: "Mo\xF1o pelo"
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 764
+        width: 148
+        height: 143
+      alignment: 9
+      pivot: {x: .678972602, y: .281091213}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Cabeza
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 468
+        width: 286
+        height: 441
+      alignment: 9
+      pivot: {x: .356867343, y: .161460966}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Brazo izq
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 775
+        width: 114
+        height: 132
+      alignment: 9
+      pivot: {x: .225403905, y: .855726302}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mano izq
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 774
+        width: 57
+        height: 51
+      alignment: 9
+      pivot: {x: .162035495, y: .405569047}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PieInferiorIzqB
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 794
+        width: 107
+        height: 49
+      alignment: 9
+      pivot: {x: .260230511, y: .942955792}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Cuerpo
+      rect:
+        serializedVersion: 2
+        x: 1098
+        y: 492
+        width: 339
+        height: 416
+      alignment: 9
+      pivot: {x: .407657951, y: .497105807}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Item1
+      rect:
+        serializedVersion: 2
+        x: 1522
+        y: 521
+        width: 269
+        height: 369
+      alignment: 9
+      pivot: {x: .343345672, y: .584834397}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Brazo drcho
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 587
+        width: 115
+        height: 132
+      alignment: 9
+      pivot: {x: .217322305, y: .864847839}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mano drcha
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 586
+        width: 58
+        height: 50
+      alignment: 9
+      pivot: {x: .16786246, y: .475920409}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PieInferiorDrchoB
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 591
+        width: 106
+        height: 50
+      alignment: 9
+      pivot: {x: .293978125, y: .94223386}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bloque1
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 317
+        width: 1545
+        height: 141
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bloque2
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 131
+        width: 844
+        height: 142
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Flecha
+      rect:
+        serializedVersion: 2
+        x: 1130
+        y: 131
+        width: 137
+        height: 150
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PieInferiorIzqA
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 836
+        width: 36
+        height: 19
+      alignment: 9
+      pivot: {x: .705101848, y: .257317781}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PieInferiorDrchoA
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 636
+        width: 36
+        height: 18
+      alignment: 9
+      pivot: {x: .670133829, y: .0910983607}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
